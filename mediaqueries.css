@@ -6,6 +6,15 @@
    .about-cotainers {
     flex-wrap: wrap;
    }
+
+   /* media */
+  
+   #contact, #projects {
+       height: fit-content;
+   }
+
+   /* end media */
+
    .article-container {
     display: flex;
     flex-direction:row;
